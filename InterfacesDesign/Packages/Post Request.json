@@ -1,0 +1,236 @@
+        {
+            "ARCommercialName":"Aswan Trips",
+            "ENCommercialName":"Aswan Trips",
+            "ARDesc":"Aswan trip will launch from cairo at 9:00",
+            "ENDesc":"Aswan trip will launch from cairo at 9:00",
+            "TechnicalName":"AswanSummerPackage",
+            "Price":"10",
+            "PriceUnit":"$",
+            "Location":"Aswan",
+            "Images":[
+
+                    "/home/images/AswanPhoto1",
+                    "/home/images/AswanPhoto2",
+                    "/home/images/AswanPhoto3"
+
+
+            ],
+            "Flags":[
+
+                {"IsPromo":"Y"},
+                {"Summer":"N"},
+                {"DiscountOnCount":"Y"}
+
+            ],
+
+            
+            "ARDetailedDesc":[
+
+                   {"Package":[
+
+                            {"Title":"Day 1 Cairo – Budapest",
+
+                                "Desc":[
+
+                                    "Depart from Cairo to Budapest. Upon arrival, you will be met, assisted, and transferred to your hotel for check-in.",
+                                    "Depart from Cairo to Budapest. Upon arrival, you will be met, assisted, and transferred to your hotel for check-in."
+
+                                ]
+                            },
+
+                            {"Title":"Day 2 Budapest",
+
+                                "Desc":[
+
+                                    "Free day to spend at your leisure.",
+                                    "Free day to spend at your leisure."
+
+                                ]
+                            }
+                        ]
+
+                    },
+
+
+                    {"HotelsAndRates":[
+
+                        {"HotelName":"Navarria Hotel",
+                        "Location":"Limassol - Cyprus",
+                        "Date":"18/Aug",
+                        "Rating":4,
+                        "SinglePrice":"",
+                        "DoublePrice":"",
+                        "TriplePrice":"",
+                        "QuadPrice":"",
+                        "ChildPrice":""
+                        },
+                        {"HotelName":"Elias Beach Hotel",
+                        "Location":"Limassol - Cyprus",
+                        "Date":"18/Aug",
+                        "Rating":4,
+                        "SinglePrice":"",
+                        "DoublePrice":"",
+                        "TriplePrice":"",
+                        "QuadPrice":"",
+                        "ChildPrice":""
+                        }
+
+                        ]
+                    },
+                     {"OptionalTours":[
+
+                        {"Name":"Nicosia, A Tale of Two Cities",
+                        "Desc":"Ideal for history buffs, this 8 - hour excursion from Ayia Napa transports you back to ancient Greek civilization. Delve into the rich history of ",
+                        "image":"/home/Photos/Trip.jpg"
+                        },
+                        {"Name":"Nicosia, A Tale of Two Cities",
+                        "Desc":"Ideal for history buffs, this 8 - hour excursion from Ayia Napa transports you back to ancient Greek civilization. Delve into the rich history of ",
+                        "image":"/home/Photos/Trip.jpg"
+                        },
+                        {"Name":"Nicosia, A Tale of Two Cities",
+                        "Desc":"Ideal for history buffs, this 8 - hour excursion from Ayia Napa transports you back to ancient Greek civilization. Delve into the rich history of ",
+                        "image":"/home/Photos/Trip.jpg"
+                        }
+
+                        ]
+                    },
+
+                    {"TermsAndConditions":[
+                        {"Title":"Package Include",
+
+                                "Desc":[
+
+                                    "Roundtrip economy airfare on EgyptAir regular flights, including taxes.",
+                                    "5 - nights accommodation in Limassol including breakfast and taxes."
+
+                                ]
+                        },
+                        {"Title":"Package Exclude",
+
+                                "Desc":[
+
+                                    "Roundtrip economy airfare on EgyptAir regular flights, including taxes.",
+                                    "5 - nights accommodation in Limassol including breakfast and taxes."
+
+                                ]
+                        }
+
+                        ]
+                    },
+
+
+                    {"VisaRequirements":[
+                        "Original valid passport and old passport(s) if applicable.",
+                        "Two recent photos against a white background.",
+                        "Original stamped English HR letter."
+                        ]
+                    }
+
+            ],
+
+            
+            "ENDetailedDesc":[
+
+                   {"Package":[
+
+                            {"Title":"Day 1 Cairo – Budapest",
+
+                                "Desc":[
+
+                                    "Depart from Cairo to Budapest. Upon arrival, you will be met, assisted, and transferred to your hotel for check-in.",
+                                    "Depart from Cairo to Budapest. Upon arrival, you will be met, assisted, and transferred to your hotel for check-in."
+
+                                ]
+                            },
+
+                            {"Title":"Day 2 Budapest",
+
+                                "Desc":[
+
+                                    "Free day to spend at your leisure.",
+                                    "Free day to spend at your leisure."
+
+                                ]
+                            }
+                        ]
+
+                    },
+
+
+                    {"HotelsAndRates":[
+
+                        {"HotelName":"Navarria Hotel",
+                        "Location":"Limassol - Cyprus",
+                        "Date":"18/Aug",
+                        "Rating":4,
+                        "SinglePrice":"",
+                        "DoublePrice":"",
+                        "TriplePrice":"",
+                        "QuadPrice":"",
+                        "ChildPrice":""
+                        },
+                        {"HotelName":"Elias Beach Hotel",
+                        "Location":"Limassol - Cyprus",
+                        "Date":"18/Aug",
+                        "Rating":4,
+                        "SinglePrice":"",
+                        "DoublePrice":"",
+                        "TriplePrice":"",
+                        "QuadPrice":"",
+                        "ChildPrice":""
+                        }
+
+                        ]
+                    },
+                     {"OptionalTours":[
+
+                        {"Name":"Nicosia, A Tale of Two Cities",
+                        "Desc":"Ideal for history buffs, this 8 - hour excursion from Ayia Napa transports you back to ancient Greek civilization. Delve into the rich history of ",
+                        "image":"/home/Photos/Trip.jpg"
+                        },
+                        {"Name":"Nicosia, A Tale of Two Cities",
+                        "Desc":"Ideal for history buffs, this 8 - hour excursion from Ayia Napa transports you back to ancient Greek civilization. Delve into the rich history of ",
+                        "image":"/home/Photos/Trip.jpg"
+                        },
+                        {"Name":"Nicosia, A Tale of Two Cities",
+                        "Desc":"Ideal for history buffs, this 8 - hour excursion from Ayia Napa transports you back to ancient Greek civilization. Delve into the rich history of ",
+                        "image":"/home/Photos/Trip.jpg"
+                        }
+
+                        ]
+                    },
+
+                    {"TermsAndConditions":[
+                        {"Title":"Package Include",
+
+                                "Desc":[
+
+                                    "Roundtrip economy airfare on EgyptAir regular flights, including taxes.",
+                                    "5 - nights accommodation in Limassol including breakfast and taxes."
+
+                                ]
+                        },
+                        {"Title":"Package Exclude",
+
+                                "Desc":[
+
+                                    "Roundtrip economy airfare on EgyptAir regular flights, including taxes.",
+                                    "5 - nights accommodation in Limassol including breakfast and taxes."
+
+                                ]
+                        }
+
+                        ]
+                    },
+
+
+                    {"VisaRequirements":[
+                        "Original valid passport and old passport(s) if applicable.",
+                        "Two recent photos against a white background.",
+                        "Original stamped English HR letter."
+                        ]
+                    }
+
+            ]
+
+        }

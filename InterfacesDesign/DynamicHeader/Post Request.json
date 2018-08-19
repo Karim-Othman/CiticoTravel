@@ -1,0 +1,24 @@
+        {
+            "ARCommercialName":"Summer Packages",
+            "ENCommercialName":"Summer Packages",
+            "TechnicalName":"SummerPackages",
+            "SubElements":[
+
+                {
+                    "Element":1,
+                    "ARCommercialName":"Sa7el",
+                    "ENCommercialName":"Sa7el",
+                    "TechnicalName":"Sa7elPackage"
+                },
+
+                {
+                    "Element":2,
+                    "ARCommercialName":"Dahab",
+                    "ENCommercialName":"Dahab",
+                    "TechnicalName":"DahabPackage"
+                }
+
+
+            ]
+
+        }

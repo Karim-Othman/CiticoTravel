@@ -1,0 +1,22 @@
+{
+    
+            "Name":"KarimOthman",
+            "Email":"karimmohamedothman@gmail.com",
+            "Nationality":"Egyptian",
+            "NationalID":"123456646",
+            "PhoneNumber":"010987",
+            "PassportNumber":"010987",
+            "RequiredPackageCommName":"Aswan",
+            "RequiredPackageTechName":"AswanSummer",
+            "TargetDate":"19Aug",
+            "RequestDate":"10Aug",
+            "characteristics":[
+
+                {"Type":"Local"},
+                {"Cancelled":"Y"},
+                {"Confirmed":"N"},
+                {"ResolvedBy":"AhmedMohamed"},
+
+            ]
+
+}
