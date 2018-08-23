@@ -1,0 +1,110 @@
+.Box {
+    height: 300px;
+    width: 80%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -40%;
+    background-color: rgb(197, 62, 62);
+    border: 1px solid  rgb(82, 61, 61);
+}
+.gridcontainer
+{
+    margin: 10px;
+            display: grid;
+            grid-template-columns: repeat(4,1fr);
+}
+
+.Box button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    /* width: 40%; */
+    position: fixed;
+    /* left:0; */
+    right:12%;
+    bottom:25%;
+}
+.searchboxchange
+{
+    height: 20px;
+    width: 20%;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    display: flex;
+    /* margin-top: -10px; */
+    /* margin-left: -10%; */
+
+}
+
+.searchboxchange button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 2px 1px;
+    cursor: pointer;
+    /* width: 40%; */
+    /* position: absolute; */
+    /* left:0; */
+
+}
+
+
+
+
+@media (max-width: 1200px) {
+    .Box {
+        height: 500px;
+        width: 100%;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        margin-top: -100px;
+        margin-left: -40%;
+        background-color: rgb(145, 139, 175);
+        border: 1px solid  rgb(82, 61, 61);
+    }
+    .gridcontainer
+    {
+        margin: 10px;
+                display: grid;
+                grid-template-columns: repeat(2,1fr);
+    }
+        .gridcontainer
+    {
+        margin: 10px;
+                display: grid;
+                grid-template-columns: repeat(2,1fr);
+    }
+    .Box button {
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 15px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        /* width: 40%; */
+        position:absolute;
+        /* left:0; */
+        right:12%;
+        bottom:0px;
+    }
+}
