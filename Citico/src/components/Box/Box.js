@@ -2,7 +2,7 @@
 	import React, { Component } from 'react';
 
     import classes from './Box.css';
-    // import Aux from '../../hoc/Aux';
+    // import Aux from '../../hoc/Auxa';
     import Searchboxitems from './Search/search';
     
     let Flight_Items = [
